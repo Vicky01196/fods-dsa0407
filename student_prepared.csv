@@ -1,0 +1,19 @@
+Student_ID,Student_Name,Department,Attendance_Pct,Internal_Marks,Assignment_Score,Online_Activity_Hrs,Total_Assessment,Percentage,Marks_ZScore,Performance_Band,At_Risk
+S101,Arjun Mehta,CSE,92.0,88.0,46.0,6.5,134.0,89.33,1.32,High,No
+S102,Divya Ramesh,CSE,68.0,42.0,30.0,2.0,72.0,48.0,-0.97,Low,Yes
+S103,Karthik Raja,ECE,81.0,74.0,40.0,5.0,114.0,76.0,0.62,High,No
+S104,Priya Nair,CSE,79.0,79.0,42.0,4.5,121.0,80.67,0.87,High,No
+S105,Rahul Verma,MECH,59.0,35.0,22.0,1.5,57.0,38.0,-1.32,Low,Yes
+S106,Sneha Iyer,ECE,88.0,63.5,44.0,5.5,107.5,71.67,0.1,Medium,No
+S107,Vikram Singh,MECH,76.0,61.0,34.3,3.0,95.3,63.53,-0.02,Medium,No
+S108,Ananya Das,AI&DS,95.0,63.5,48.0,7.0,111.5,74.33,0.1,Medium,No
+S109,Mohammed Faiz,AI&DS,72.0,48.0,28.0,2.5,76.0,50.67,-0.67,Medium,Yes
+S110,Lakshmi Prasad,ECE,79.0,66.0,35.0,4.0,101.0,67.33,0.23,Medium,No
+S111,Rohan Gupta,CSE,84.0,71.0,38.0,5.0,109.0,72.67,0.48,Medium,No
+S112,Meera Krishnan,MECH,64.0,30.0,20.0,1.0,50.0,33.33,-1.57,Low,Yes
+S113,Aditya Rao,AI&DS,90.0,85.0,34.3,6.0,119.3,79.53,1.17,High,No
+S114,Kavya Menon,ECE,79.0,63.5,36.0,3.5,99.5,66.33,0.1,Medium,No
+S115,Siddharth Jain,CSE,70.0,63.5,25.0,2.0,88.5,59.0,0.1,Medium,No
+S116,Nithya Suresh,MECH,79.0,58.0,33.0,3.0,91.0,60.67,-0.17,Medium,No
+S117,Harish Kumar,AI&DS,86.0,97.0,47.0,8.0,144.0,96.0,1.77,High,No
+S118,Pooja Shetty,ECE,55.0,18.0,15.0,0.5,33.0,22.0,-2.16,Low,Yes
